@@ -6,10 +6,8 @@ Este proyecto contiene una imagen Docker para desplegar una página web estátic
 
 1. [Requisitos](#requisitos)
 2. [Estructura del Proyecto](#estructura-del-proyecto)
-3. [Pasos para Construir la Imagen Docker](#pasos-para-construir-la-imagen-docker)
-4. [Pasos para Subir la Imagen a Docker Hub](#pasos-para-subir-la-imagen-a-docker-hub)
-5. [Ver la Página Web](#ver-la-página-web)
-6. [Capturas de Pantalla](#capturas-de-pantalla)
+3. [Ver la Página Web](#ver-la-página-web)
+4. [Capturas de Pantalla](#capturas-de-pantalla)
 
 ## Requisitos
 
@@ -26,15 +24,24 @@ El proyecto incluye los siguientes archivos:
 - Otros archivos estáticos.
 
 La estructura del proyecto es la siguiente:
-
-![img.png](img.png)
-
 ```plaintext
 mi-cv/
 ├── Dockerfile
 ├── index.html
 ├── Readme.md
 └── img.png
+└── img_1.png
+```
+## Ver la Página Web
+```http request
+http://localhost:8585/
+```
+![img_1.png](img_1.png)
+
+## Capturas de Pantalla
+![img.png](img.png)
+
+
 
 
 

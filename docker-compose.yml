@@ -1,0 +1,6 @@
+version: '3'
+services:
+  web:
+    image: ymatias/mi-cv-ymatias-imagen:v2
+    ports:
+      - "8585:80"
