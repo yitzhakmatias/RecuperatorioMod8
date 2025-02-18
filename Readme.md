@@ -39,9 +39,8 @@ http://localhost:8585/
 ![img_1.png](img_1.png)
 
 ## Capturas de Pantalla
+
 ![img.png](img.png)
-
-
 
 
 
