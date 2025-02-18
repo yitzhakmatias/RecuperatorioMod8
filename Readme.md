@@ -40,7 +40,7 @@ http://localhost:8585/
 
 ## Capturas de Pantalla
 
-![img.png](img.png)
+![img.png](img_2.png)
 
 
 
